@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
 
-  //const url = `https://api.openweathermap.org/data/2.5/weather?q=miami&appid=c56414465ae3a579880df93041f886d6`
+  //const url = `https://api.openweathermap.org/data/2.5/weather?q=miami&appid=`
 
 
   return (
